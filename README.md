@@ -3,7 +3,9 @@
 POST requests
 
 http://localhost:8080/mjesto
+
 http://localhost:8080/osoba
+
 http://localhost:8080/broj
 
 DELETE requests
